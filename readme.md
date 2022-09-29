@@ -23,3 +23,20 @@ This is a project I did while in the Thinkful certification, where I built a str
 •	Tools used Microsoft Excel and PowerPoint
 
 ### Project 2: Statistical Analysis: Analyzing A Specific Housing Market
+
+
+•	Tasked to find factors that drive home prices
+
+•	Used statistics, and visualizations to prove significant differences in my hypotheses
+
+•	Created recommendations and presented my findings
+
+•	Tools used Microsoft Excel and PowerPoint
+
+### Project 3: YouTube Analytics
+
+•	Tasked with making interpretation of the relationships between views, likes, and comments for businesses seeking to promote with content creators
+
+•	Identified correlations between YouTube views, likes, and comments and a statistical difference
+
+•	Used python to analyze data and make visualizations

@@ -21,3 +21,5 @@ This is a project I did while in the Thinkful certification, where I built a str
 •	Presented a strategy comparison and outcomes associated
 
 •	Tools used Microsoft Excel and PowerPoint
+
+### Project 2: Statistical Analysis: Analyzing A Specific Housing Market

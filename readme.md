@@ -1,5 +1,11 @@
 # Data Analytics Portfolio
 
+<p align=”center”>
+<a href="www.linkedin.com/in/adriansealy">
+<img src=https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin>
+</a>
+</p>
+
 This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and soon impending projects that have sparked my own interest. Presented in Excel and iPython notebook.
 
 ## Contents

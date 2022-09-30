@@ -12,18 +12,15 @@ This repository shows my portfolio of data analysis projects that I've work on d
 
 ### Project 1: Business Analysis and Revenue Growth Models: Lariat Car Rental
 
-This is a project I did while in the Thinkful certification, where I built a strategic models for a car rental company.
-
 •	Tasked with creating strategies for minimizing costs and maximizing revenue
 
 •	Developed calculations, a performance benchmark, and a dashboard  
 
-•	Presented a strategy comparison and outcomes associated
+•	Presented a strategy comparison and an interactive dashboard
 
 •	Tools used Microsoft Excel and PowerPoint
 
 ### Project 2: Statistical Analysis: Analyzing A Specific Housing Market
-
 
 •	Tasked to find factors that drive home prices
 

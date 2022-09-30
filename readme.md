@@ -20,7 +20,7 @@ This repository shows my portfolio of data analysis projects that I've work on d
 
 •	Tools used Microsoft Excel and PowerPoint
 
-### Project 2: Statistical Analysis: Analyzing A Specific Housing Market
+### [Project 2: Statistical Analysis: Analyzing A Specific Housing Market](https://github.com/AdrianKSealy/AdrianKSealy.io/blob/main/Capstone%20housing%20II.xlsx)
 
 •	Tasked to find factors that drive home prices
 

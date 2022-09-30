@@ -6,7 +6,9 @@
 </a>
 </p> 
 
-This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and soon impending projects that have sparked my own interest. Presented in Excel and iPython notebook.
+This repository shows my portfolio of data analysis projects that I've work on during the Thinkful certification and soon impending projects that have sparked my own interest. Presented in Excel and iPython notebook. 
+
+**Click the link to be directed towards a Excel file or iPython notebook.**
 
 ## Contents
 

@@ -10,7 +10,7 @@ This repository shows my portfolio of data analysis projects that I've work on d
 
 ## Contents
 
-### Project 1: Business Analysis and Revenue Growth Models: Lariat Car Rental(https://github.com/AdrianKSealy/AdrianKSealy.io/blob/main/Capstone_III_2.ipynb)
+### Project 1: Business Analysis and Revenue Growth Models: Lariat Car Rental
 
 •	Tasked with creating strategies for minimizing costs and maximizing revenue
 
@@ -30,7 +30,7 @@ This repository shows my portfolio of data analysis projects that I've work on d
 
 •	Tools used Microsoft Excel and PowerPoint
 
-### Project 3: YouTube Analytics
+### [Project 3: YouTube Analytics](https://github.com/AdrianKSealy/AdrianKSealy.io/blob/main/Capstone_III_2.ipynb)
 
 •	Tasked with making interpretation of the relationships between views, likes, and comments for businesses seeking to promote with content creators
 

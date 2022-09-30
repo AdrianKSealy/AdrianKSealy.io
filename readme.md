@@ -10,7 +10,7 @@ This repository shows my portfolio of data analysis projects that I've work on d
 
 ## Contents
 
-### Project 1: Business Analysis and Revenue Growth Models: Lariat Car Rental
+### Project 1: Business Analysis and Revenue Growth Models: Lariat Car Rental(https://github.com/AdrianKSealy/AdrianKSealy.io/blob/main/Capstone_III_2.ipynb)
 
 •	Tasked with creating strategies for minimizing costs and maximizing revenue
 

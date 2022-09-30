@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 <p align=”center”>
-<a href="https://www.linkedin.com/in/adriansealy/">
+<a href=https://www.linkedin.com/in/adriansealy/>
 <img src=https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin>
 </a>
 </p> 
